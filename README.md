@@ -87,13 +87,12 @@ The authors would like to acknowledge the contributions of the research communit
 
 
 Citations:
-[1] https://github.com/TheNaiveSamosa
-[2] https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-[3] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02114-6
-[4] https://www.mdpi.com/1999-4893/16/4/176
-[5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9468505/
-[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9854739/
-[7] https://www.nature.com/articles/s41598-024-57970-7
+[1] https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+[2] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02114-6
+[3] https://www.mdpi.com/1999-4893/16/4/176
+[4] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9468505/
+[5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9854739/
+[6] https://www.nature.com/articles/s41598-024-57970-7
 
 
 ## How to Use
