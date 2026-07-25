@@ -1,5 +1,19 @@
 # 🧠 Brain Tumor Detection using Deep Learning
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![VGG16](https://img.shields.io/badge/VGG16-Transfer_Learning-6A1B9A?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-Custom_Model-1E88E5?style=for-the-badge)
+![MLP](https://img.shields.io/badge/MLP-TensorFlow-26A69A?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-Deep_Learning-blue?style=for-the-badge)
+![Medical AI](https://img.shields.io/badge/Medical_AI-Brain_Tumor-red?style=for-the-badge)
+![Image Classification](https://img.shields.io/badge/Image_Classification-MRI-success?style=for-the-badge)
+
 ## 📝 Abstract
 
 Brain tumors are a serious medical condition affecting both children and adults, constituting 85 to 90 percent of all primary Central Nervous System (CNS) tumors. Annually, around 11,700 people receive a brain tumor diagnosis, with a 5-year survival rate of approximately 34 percent for men and 36 percent for women. Proper treatment, planning, and accurate diagnostics are crucial to improving patient life expectancy.
